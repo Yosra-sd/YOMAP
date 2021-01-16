@@ -36,11 +36,6 @@ body {
   align-items: center;
 }
 
-.grid-column-1 {
-  position: sticky;
-  top: 0;
-}
-
 .hamburger-cont {
   display: grid;
   grid-template-columns: 1fr 1fr;
